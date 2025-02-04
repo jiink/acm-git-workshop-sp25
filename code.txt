@@ -1,0 +1,6 @@
+// This is fake code. Feel free to modify it in your branch.
+
+function main()
+{
+  print("Hello Git!");
+}
