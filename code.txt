@@ -2,6 +2,6 @@
 
 function main()
 {
-  print("Hello Git!");
+  print("Hello everyone!");
   print("Big changes happened here...");
 }
