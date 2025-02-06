@@ -3,5 +3,5 @@
 function main()
 {
   print("Hello everyone!");
-  print("Big changes happened here...");
+  CODE FAIL!!!!!!!
 }
